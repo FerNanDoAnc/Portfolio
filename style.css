@@ -357,6 +357,7 @@ section .title::after{
 }
 
 /*Estilos de la seccion EQUIPO*/
+/*
 .teams .title::after{
     content: "Trabajamos";
 }
@@ -417,6 +418,9 @@ section .title::after{
 .owl-dot:hover{
     background: crimson!important;
 }
+*/
+
+
 
 /* Estilos de la seccion CONTACTO */
 .contact .title::after{
