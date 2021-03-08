@@ -238,7 +238,7 @@ section .title::after{
 }
 
 /*Estilos de la seccion Servicios */
-.services, .teams{
+.services .teams{
     color: #fff;
     background: #111;
 }
