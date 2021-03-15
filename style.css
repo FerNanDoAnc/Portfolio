@@ -342,18 +342,18 @@ section .title::after{
     background: crimson;
 }
 .skills .skills-content .right .html::before{
-    width: 90%;
+    width: 100%;
 }
 .skills .skills-content .right .css::before{
-    width: 90%;
+    width: 100%;
 }.skills .skills-content .right .javascript::before{
-    width: 90%;
+    width: 100%;
 }.skills .skills-content .right .angular::before{
-    width: 90%;
+    width: 100%;
 }.skills .skills-content .right .java::before{
-    width: 90%;
+    width: 100%;
 }.skills .skills-content .right .mysql::before{
-    width: 90%;
+    width: 100%;
 }
 
 /*Estilos de la seccion EQUIPO*/
