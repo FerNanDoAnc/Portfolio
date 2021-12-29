@@ -27,13 +27,13 @@ $(document).ready(function(){
 
     // Script del typing animation
     var typed=new Typed(".typing",{
-        strings:["Desarrollador web","Programador front-end"],
+        strings:["Desarrollador web","Desarrollador web"],
         typeSpeed: 100,
         backSpace: 60,
         loop: true
     });
     var typed=new Typed(".typing-2",{
-        strings:["Desarrollador web","Programador front-end"],
+        strings:["Desarrollador web","Desarrollador web"],
         typeSpeed: 100,
         backSpace: 60,
         loop: true

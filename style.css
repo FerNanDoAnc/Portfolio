@@ -14,6 +14,9 @@ html{
     padding: 0 80px;
     margin: auto;
 }
+
+
+/* ---------------------------------------------------------------------  */
 /* ***************** */
 /*Estilos del NAVBAR*/
 .navbar{
@@ -60,12 +63,15 @@ html{
     transition: color 0.3s  ease;
 }
 .navbar .menu li a:hover{
-    color: #247972;
+    color: #ffe816;
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
 }
 
+
+
+/* ---------------------------------------------------------------------  */
 /*Estilos del boton del MENU*/
 .menu-btn {
     color: #fff;
@@ -97,6 +103,10 @@ html{
     pointer-events: auto;
 }
 
+
+
+
+/* ---------------------------------------------------------------------  */
 /*Estilos de la seccion de inicio*/
 .home{
     display: flex;
@@ -137,9 +147,14 @@ html{
     transition: all 0.4s  ease;
 }
 .home .home-content a:hover{
-    color: #247972;
+    color: #ffe816;
     background: none;
+    border: 2px solid #ffe816;
 
+}
+.home span{
+    color: #247972;
+    transition: all 0.3s  ease;
 }
 
 
@@ -193,8 +208,10 @@ section .title::after{
     transform: translateX(-50%);
 }
 
-/*Estilos de la seccion SOBRE MI*/
 
+
+/* ---------------------------------------------------------------------  */
+/*Estilos de la seccion SOBRE MI*/
 /**/
 .about .title::after{
     content: "¿Quien soy?";
@@ -240,6 +257,8 @@ section .title::after{
     background: none;
 }
 
+
+/* ---------------------------------------------------------------------  */
 /*Estilos de la seccion Servicios */
 .services, .teams{
     color: #fff;
@@ -286,6 +305,8 @@ section .title::after{
     margin: 10px 0 7px 0;
 }
 
+
+/* ---------------------------------------------------------------------  */
 /*Estilos de la seccion HABILIDADES*/
 .skills .title::after{
     content: "lo que se";
@@ -359,8 +380,10 @@ section .title::after{
     width: 100%;
 }
 
+
+/* ---------------------------------------------------------------------  */
 /*Estilos de la seccion EQUIPO*/
-/*
+
 .teams .title::after{
     content: "Trabajamos";
 }
@@ -421,8 +444,10 @@ section .title::after{
 .owl-dot:hover{
     background: #247972!important;
 }
-*/
 
+
+
+/* ---------------------------------------------------------------------  */
 /* Estilos de la seccion CONTACTO */
 .contact .title::after{
     content: "contactame";
@@ -514,6 +539,9 @@ section .title::after{
     background: none;
 }
 
+
+
+/* ---------------------------------------------------------------------  */
 /* Estilos de la seccion del FOOTER */
 footer{
     background-color:  rgb(22, 22, 22);
