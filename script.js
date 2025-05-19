@@ -27,7 +27,7 @@ $(document).ready(function(){
 
     // Script del typing animation
     var typed=new Typed(".typing",{
-        strings:["Desarrollador web","Desarrollador web"],
+        strings:["Desarrollador web","Desarrollador Full Stack"],
         typeSpeed: 100,
         backSpace: 60,
         loop: true
