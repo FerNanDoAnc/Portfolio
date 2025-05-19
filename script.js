@@ -33,7 +33,7 @@ $(document).ready(function(){
         loop: true
     });
     var typed=new Typed(".typing-2",{
-        strings:["Desarrollador web","Desarrollador web"],
+        strings:["Desarrollador web","Desarrollador Full Stack"],
         typeSpeed: 100,
         backSpace: 60,
         loop: true
